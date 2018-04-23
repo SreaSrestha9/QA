@@ -1,0 +1,9 @@
+C:\Users\i81378\source\repos\new\test\bin\Debug\netstandard2.0\test.deps.json
+C:\Users\i81378\source\repos\new\test\bin\Debug\netstandard2.0\test.dll
+C:\Users\i81378\source\repos\new\test\bin\Debug\netstandard2.0\test.pdb
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.csprojResolveAssemblyReference.cache
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.dll
+C:\Users\i81378\source\repos\new\test\obj\Debug\netstandard2.0\test.pdb
